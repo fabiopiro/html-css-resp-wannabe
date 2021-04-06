@@ -114,7 +114,8 @@ img {
     }
 
     /* lezioni */
-    #lezioni {
+    #lezioni,
+    #why {
       padding-bottom: 10px;
     }
 
